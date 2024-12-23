@@ -1,0 +1,7 @@
+当我们在C++ 中 写一个整型数值时，编译器会自动的将其识别为 int 类型，同样的当我们写一个小数时，编译器会自动的将其识别为double 类型，但如果想指定特定类型时该怎么办呢，加表示类型的 ”后缀“
+u :  表示无符号整形(unsigned)
+l  :  表示long类型或long double 类型, 
+ll :  表示long long 类型
+ul：表示unsigned long 类型
+ull:  表示 unsigned long long 类型
+f  ：表示float 类型
